@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-tredwpfi:fa9a4586b02a2431eccbdebd743d8b6b624e2855@sha256:292afdffaf51d997443fb09fb2da2ba5d6896e8e164a9b7c4e9f8feb0ffe5440
+        - image: quay.io/rhtap_qe/go-tredwpfi:973d49891f9e45a46bb507840f8b857f0b724f54@sha256:c69563dbc5e088591c1097a1db8d8b5baebb9b921fbb490cef1ba4e1ac14ee0f
           name: container-image
